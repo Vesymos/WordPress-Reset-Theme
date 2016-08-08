@@ -1,0 +1,20 @@
+/* @group WORDPRESS */
+.alignleft {
+  float: left;
+  margin: 0 1em 1em 0; }
+
+.alignright {
+  float: right;
+  margin: 0 0 1em 1em; }
+
+.aligncenter {
+  display: block;
+  margin: 0.5em auto; }
+
+.alignnone {
+  margin: 0 1em 1em 0; }
+
+.clear {
+  clear: both; }
+
+/* @end */
